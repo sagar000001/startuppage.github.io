@@ -63,6 +63,7 @@ hr{
 
 }
 .btn:hover{
+  cursor: pointer;
   background-color: yellow;
   color: black;
   border: 3px solid white;
