@@ -37,7 +37,7 @@ body {
 
 @media screen and (max-width: 480px) {
   html {
-    font-size: 10px;
+    font-size: 11px;
   }
 }
 
@@ -157,11 +157,11 @@ body {
   height: 50%;
 }
 .course-detail > h4 {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 .course-detail > p {
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 400;
   width: 90%;
   /* text-overflow: ellipsis; */
